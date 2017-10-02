@@ -18,7 +18,7 @@
         "background": "notes"
     },
     {
-        "date": "16",
+        "hour": "16",
         "day": "January 3",
         "name": "Transfer Money From Overseas.",
         "url": "http://www.wikihow.com/Transfer-Money-From-Overseas",
@@ -27,7 +27,7 @@
         "background": "books"
     },
     {
-        "date": "17",
+        "hour": "17",
         "day": "January 4",
         "name": "Defrost Meat.",
         "url": "http://www.wikihow.com/Defrost-Meat",
@@ -36,7 +36,7 @@
         "background": "meat"
     },
     {
-        "date": "18",
+        "hour": "18",
         "day": "January 5",
         "name": "Get a Replacement ID.",
         "url": "http://www.wikihow.com/Replace-Your-Lost-Driver's-License",
@@ -45,7 +45,7 @@
         "background": "flag"
     },
     {
-        "date": "19",
+        "hour": "19",
         "day": "December 31",
         "name": "Don't Drink & Drive.",
         "url": "http://www.wikihow.com/Avoid-Drinking-and-Driving-on-New-Year's-Eve",
